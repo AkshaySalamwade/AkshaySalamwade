@@ -15,7 +15,7 @@
 <br/>
 <h2 align="left">Connect With US:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-salamwade-37646b228?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4zpji%2birrbqxvd1w8hbbbw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-salamwade-37646b228?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4zpji%2birrbqxvd1w8hbbbw%3d%3d" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/akshay-salamwade-37646b228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-salamwade-37646b228?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4zpji%2birrbqxvd1w8hbbbw%3d%3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshay_salamwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_salamwade" height="30" width="40" /></a>
 </p>
 
