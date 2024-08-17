@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3> </br>
 
 <h2 align="left">About Me:</h2>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **designing scalable Java-based microservices for distributed systems.**
 
 - 🌱 I’m currently learning **Spring Boot and its applications in microservices.**
